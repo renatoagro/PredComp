@@ -16,7 +16,3 @@ PredComp()
 \value{Stress and compaction effects}
 
 \author{ Renato Paiva de Lima <renato_agro_@hotmail.com> }
-
-\seealso{
-  \code{\link{stressTraffic}}
-}
